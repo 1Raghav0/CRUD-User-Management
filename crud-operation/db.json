@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "43b3",
+      "firstName": "Raghvendra",
+      "lastName": "Singh",
+      "phone": "6397258224",
+      "email": "raghvendrasingh10216@gmail.com"
+    },
+    {
+      "id": "acf5",
+      "firstName": "Jatin",
+      "lastName": "Kumar",
+      "phone": "6397215489",
+      "email": "jatin@gmail.com"
+    }
+  ]
+}
